@@ -5,4 +5,4 @@ Git tracks changes of files.
 
 create a branch dev
 
-fix in master branch.
+test for --no-ff mode.
